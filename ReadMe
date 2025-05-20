@@ -100,13 +100,11 @@ about.html
 </html>
 
 ```
----  
+---
 
-
-```
 account.html
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
