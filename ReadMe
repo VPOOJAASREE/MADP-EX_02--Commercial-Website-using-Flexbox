@@ -1,10 +1,17 @@
 # Ex02 Commercial Website
+
+```
+NAME: V. POOJAA SREE
+REG. NO: 212223040147
+
+```
+
 ## Date:
 
-## AIM
+## AIM:
 To create a commercial website using CSS Flexbox.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create an HTML file (index.html)
 
@@ -50,10 +57,52 @@ Deploy the website.
 ### STEP 15
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+## PROGRAM:
+
+```
+### about.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us - Glow & Shine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Glow & Shine Skincare</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="account.html">Account</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At Glow & Shine, we believe in natural and effective skincare solutions.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Glow & Shine | Follow us on social media</p>
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Instagram</a>
+            <a href="#">Twitter</a>
+        </div>
+    </footer>
+</body>
+</html>
+
+```
 
 
-## OUTPUT
+## OUTPUT:
 
 
 ## RESULT
