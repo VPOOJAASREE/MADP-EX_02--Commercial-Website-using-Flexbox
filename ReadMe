@@ -101,16 +101,11 @@ about.html
 
 ```
 
-## Ou:
-
-
----  
-
-
-
-account.html
 
 ```
+account.html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -192,7 +187,7 @@ contact.html
 </html>
 
 ```
----
+
 
 ```
 index.html
@@ -237,7 +232,7 @@ index.html
 </html>
 
 ```
----
+
 
 ```
 products.html
@@ -306,7 +301,6 @@ products.html
 
 ```
 
----
 
 ```
 style.css
@@ -436,6 +430,8 @@ img {
 
 
 ## OUTPUT:
+
+
 
 
 ## RESULT
