@@ -101,6 +101,7 @@ about.html
 
 ```
 
+---
 
 ```
 account.html
@@ -429,6 +430,16 @@ img {
 ```
 
 ## OUTPUT:
+
+![O1](https://github.com/user-attachments/assets/8a084195-ec06-4cc7-8eb6-5d9c6cd62aa6)
+
+![O2](https://github.com/user-attachments/assets/cfbb4764-d969-41cb-af78-797940fc7a74)
+
+![O3](https://github.com/user-attachments/assets/465fb749-afdf-40ee-802d-63a7180087b4)
+
+![O4](https://github.com/user-attachments/assets/ed2ebd50-8b9a-48b2-b146-518926ea962e)
+
+![O5](https://github.com/user-attachments/assets/a1d43eb8-b6fd-4e62-8df6-75894599cec7)
 
 
 
