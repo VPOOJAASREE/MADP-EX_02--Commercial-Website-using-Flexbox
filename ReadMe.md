@@ -188,7 +188,7 @@ contact.html
 </html>
 
 ```
-
+---
 
 ```
 index.html
@@ -233,7 +233,7 @@ index.html
 </html>
 
 ```
-
+---
 
 ```
 products.html
@@ -302,6 +302,7 @@ products.html
 
 ```
 
+---
 
 ```
 style.css
